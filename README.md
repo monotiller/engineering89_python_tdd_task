@@ -7,6 +7,8 @@ Task requirements:
 - create a method in the class to pass the test
 
 ## Tests
+- `calc_test.py` - This is where the tests are stored
+- `complicated_calc.py` this is where the calculator is stored
 ### `test_divisible`
 Tests if the modulous of the two numbers is 0. The calculator returns a `True` or `False` statement depending on the answer. Here, we're passing in `2` and `10` and we are expecting it to `False` because  the answer is 3
 
